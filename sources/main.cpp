@@ -1,3 +1,3 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2020 Your Name <a.mark.2001@mail.ru>
 
 #include <header.hpp>
